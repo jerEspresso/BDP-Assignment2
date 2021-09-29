@@ -1,10 +1,10 @@
-package s3829221.Task1;
+package s3829221.Task3;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class Startup 
 {
     public static void main( String[] args )
     {
